@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Computer Engineering student.
+Computer Engineering student.  
 I work on things here and there, mainly discord bots and miscellaneous projects.
 
 <!--
