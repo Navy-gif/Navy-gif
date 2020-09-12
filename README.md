@@ -3,6 +3,8 @@
 I'm a Computer Engineering student.  
 I work on things here and there, mainly discord bots and miscellaneous projects.
 
+Many of the projects I work on are in private repositories for various reasons, though feel free to browse my old projects if you feel like reading through poorly designed and crappy code.
+
 <!--
 **Navy-gif/Navy-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
