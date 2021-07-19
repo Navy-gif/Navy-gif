@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Computer Engineering student.  
+I'm a Computer Engineering student from Finland.  
 I work on things here and there, mainly discord bots and miscellaneous projects.  
 
 I can work with Python, JS (Node & React among others), Java, C# & Lua.  
