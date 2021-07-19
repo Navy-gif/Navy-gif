@@ -3,6 +3,9 @@
 I'm a Computer Engineering student.  
 I work on things here and there, mainly discord bots and miscellaneous projects.
 
+I can work with Python, JS (Node & React among others), Java, C# & Lua.
+I also have a primitive understanding of C and C++.
+
 Many of the projects I work on are in private repositories for various reasons, though feel free to browse my old projects if you feel like reading through poorly designed and crappy code.
 
 <!--
