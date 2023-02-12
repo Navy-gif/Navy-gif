@@ -8,6 +8,8 @@ Most familiar with JS technologies, such as Express & React.
 
 Many of the projects I work on are in private repositories for various reasons, though feel free to browse my old projects if you feel like reading through poorly designed and crappy code.  
 
+Many of them are also on my own [gitea](https://git.corgi.wtf) instance.  
+
 <!--
 **Navy-gif/Navy-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
